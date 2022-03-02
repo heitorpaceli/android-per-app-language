@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Зразок мови для кожної програми</string>
+    <string name="hello_world">Привіт Світ</string>
+    <string name="system_locale">Мова системи</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">アプリごとの言語のサンプル</string>
+    <string name="hello_world">こんにちは世界</string>
+    <string name="system_locale">システム言語</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejemplo de lenguaje por aplicación</string>
+    <string name="hello_world">Hola Mundo</string>
+    <string name="system_locale">Lenguaje del sistema</string>
+</resources>
